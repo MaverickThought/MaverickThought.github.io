@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Erik P Bertelli</title>
+    <link>https://MaverickThought.github.io/home/</link>
+    <description>Recent content in Homes on Erik P Bertelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://MaverickThought.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://MaverickThought.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/about/</guid>
+      <description> Biography I am a PhD student in the Industrial Engineering &amp;amp; Operations Research department at UC Berkeley. My advisor is Prof Candi Yano. My research is currently focused on Inventory Control for multi-generational high-tech products with uncertain warranty obligations.
+In my free time I enjoy watching classic movies and going to baseball games.
+View my CV </description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://MaverickThought.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://MaverickThought.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://MaverickThought.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://MaverickThought.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://MaverickThought.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://MaverickThought.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/teaching/</guid>
+      <description>While at UC Berkeley, I have served as a Graduate Student Instructor for a number of undergraduate (100 series) and graduate (200 series) courses:
+ IEOR 150 Production Systems Analysis, Prof Yano, Fall 2020 IEOR 153 Logistics Network Design and Supply Chain Management, Instructor Olfat, Spring 2020 IEOR 150 Production Systems Analysis, Prof Yano, Fall 2019 IEOR 153 Logistics Network Design and Supply Chain Management, Prof Ozsen, Spring 2019 IEOR 150 Production Systems Analysis, Prof Yano, Fall 2018 IEOR 240 Optimization Analytics, Prof Adler, Fall 2017 UBGA 141 Introduction to Operations Management, Prof Yano, Spring 2014 IEOR 160 Operations Research I, Prof Hochbaum, Fall 2013  In Spring 2014, I was awarded the IEOR department&amp;rsquo;s Oustanding GSI award.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://MaverickThought.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://MaverickThought.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://MaverickThought.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
